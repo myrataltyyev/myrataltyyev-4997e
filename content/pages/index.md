@@ -30,7 +30,7 @@ sections:
         style: button
 seo:
   title: Myrat Altyyev
-  description: The preview of the Fresh theme
+  description: Personal blog of Myrat Altyyev
   extra:
     - name: 'og:type'
       value: website

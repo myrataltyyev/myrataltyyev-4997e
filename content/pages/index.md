@@ -13,9 +13,9 @@ sections:
     title: About
     content: >
       I'm in the last semester of my master studies in a small beautiful city
-      called Aachen. Besides studying I read books, watch movies and do sport.
+      called Aachen. Besides studying, I read books, watch movies and do sport.
       Also I'm open to internship or part-time work to get an experience in my
-      field. 
+      field.
     actions:
       - label: Contact Me
         url: /contact

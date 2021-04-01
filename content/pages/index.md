@@ -11,11 +11,11 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I'm in the last semester of my master studies in a small beautiful city
+      called Aachen. Besides studying I read books, watch movies and do sport.
+      Also I'm open to internship or part-time work to get an experience in my
+      field. 
     actions:
       - label: Contact Me
         url: /contact

@@ -29,6 +29,7 @@ sections:
           - Job offer
           - Want to solve CTFs together
           - Other
+        is_required: true
       - input_type: textarea
         name: message
         label: Message

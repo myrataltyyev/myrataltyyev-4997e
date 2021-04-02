@@ -26,6 +26,8 @@ sections:
     content: |
       *   **Duration:** sfsdafsdaf
 
+      <!---->
+
       *   **Major:** fsdaf
 
       *   **Place:** hjgj

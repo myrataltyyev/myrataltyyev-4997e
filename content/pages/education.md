@@ -3,7 +3,7 @@ title: Education
 hide_title: false
 sections:
   - title: RWTH Aachen
-    section_id: lorem-ipsum
+    section_id: university
     image_alt: lorem-ipsum
     content: |
       *   Duration: November 2019 - now

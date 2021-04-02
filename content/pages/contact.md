@@ -26,7 +26,7 @@ sections:
           - Error on the site
           - Question
           - null
-          - null
+          - Job offer
           - lorem-ipsum
       - input_type: textarea
         name: message

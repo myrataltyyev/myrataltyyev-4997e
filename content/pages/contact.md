@@ -27,7 +27,7 @@ sections:
           - Question
           - Suggestion
           - Job offer
-          - Other
+          - 'Want to be '
           - lorem-ipsum
       - input_type: textarea
         name: message

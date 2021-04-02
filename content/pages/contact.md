@@ -25,7 +25,7 @@ sections:
         options:
           - Error on the site
           - Question
-          - null
+          - Job offer
           - Other
       - input_type: textarea
         name: message

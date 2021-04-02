@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Myrat Altyyev.'
     content: >
-      M.Sc. Software Systems Engineering student at RWTH Aachen. Cybersecurity
+      M.Sc. Software Systems Engineering student at RWTH Aachen. Cyber Security
       enthusiast.
   - section_id: about
     type: section_content

@@ -26,9 +26,9 @@ sections:
     content: |
       *   Major:
 
-      *   Duration:
+      *   Duration;
 
-      *   Place:
+      *   place:
     actions:
       - label: Visit
         url: 'https://www.ciu.edu.tr/'

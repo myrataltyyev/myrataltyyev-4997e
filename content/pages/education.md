@@ -48,7 +48,7 @@ sections:
       *   **Major:** B.Sc. Computer Engineering
       *   **Place:** Istanbul, Turkey
     actions:
-      - label: lorem-ipsum
+      - label: Visit
         url: '#'
         style: link
         icon_class: dev

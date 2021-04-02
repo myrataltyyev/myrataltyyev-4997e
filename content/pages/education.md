@@ -1,7 +1,6 @@
 ---
 title: Education
 hide_title: false
-excerpt: lorem-ipsum
 sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum

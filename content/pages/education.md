@@ -23,7 +23,6 @@ sections:
     image: images/SuperC-59.JPEG
   - title: Cyprus International University
     section_id: lorem-ipsum
-    image_alt: lorem-ipsum
     content: |
       *   **Duration:** February 2018 - June 2019
 

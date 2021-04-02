@@ -67,8 +67,7 @@ sections:
       *   **Specialty:** Physics and Mathematics
       *   **Place:** Ashgabat, Turkmenistan
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         icon_class: dev
         new_window: false

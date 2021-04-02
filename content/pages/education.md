@@ -66,14 +66,7 @@ sections:
       *   **Duration:** September 2009 - June 2015
       *   **Specialty:** Physics and Mathematics
       *   **Place:** Ashgabat, Turkmenistan
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon_class: dev
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: section_content
 seo:
   title: ''

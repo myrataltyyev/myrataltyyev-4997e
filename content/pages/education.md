@@ -32,7 +32,7 @@ sections:
       *   **Place:** Nicosia, Turkish Republic of Northern Cyprus
     actions:
       - label: Visit
-        url: 'https:'
+        url: 'https://www.ciu.edu.tr/'
         style: link
         icon_class: dev
         new_window: false

@@ -28,7 +28,7 @@ sections:
           - Suggestion
           - Job offer
           - Want to solve CTF together
-          - lorem-ipsum
+          - Other
       - input_type: textarea
         name: message
         label: Message

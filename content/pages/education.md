@@ -56,6 +56,7 @@ sections:
         no_follow: false
         type: action
     type: section_content
+    image: images/bau.jpg
 seo:
   title: ''
   description: ''

@@ -27,7 +27,7 @@ sections:
           - Question
           - Suggestion
           - Job offer
-          - lorem-ipsum
+          - Other
       - input_type: textarea
         name: message
         label: Message

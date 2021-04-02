@@ -6,11 +6,11 @@ sections:
     section_id: university
     image_alt: Main Building and Super C
     content: |
-      *   ***Duration:*** November 2019 - now
+      *   *Duration:* November 2019 - now
 
-      *   ***Major:*** M.Sc. Software Systems Engineering
+      *   *Major:* M.Sc. Software Systems Engineering
 
-      *   ***Place:*** Aachen, Germany
+      *   *Place:* Aachen, Germany
     actions:
       - label: Visit
         url: 'https://www.rwth-aachen.de'

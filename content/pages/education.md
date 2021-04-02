@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - title: RWTH Aachen
     section_id: university
-    image_alt: lorem-ipsum
+    image_alt: Main Building and Super C
     content: |
       *   Duration: November 2019 - now
 

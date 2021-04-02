@@ -25,7 +25,7 @@ sections:
         options:
           - Error on the site
           - Question
-          - Job offer
+          - null
           - null
           - lorem-ipsum
       - input_type: textarea

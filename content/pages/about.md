@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: This is a short page about me.
 img_path: images/rainy-goose.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:

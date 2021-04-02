@@ -2,9 +2,7 @@
 title: Education
 hide_title: false
 sections:
-  - title: >-
-      State boarding-school for gifted children Named after Saparmyrat
-      Turkmenbashy  
+  - title: ' '
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

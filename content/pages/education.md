@@ -24,9 +24,6 @@ sections:
   - title: Cyprus International University
     section_id: lorem-ipsum
     content: >
-      *   **Duration:** February 2018 - June 2019
-
-
       *   *   **Major:** B.Sc. Computer Engineering*   **Place:** Istanbul,
       Turkey
     actions:

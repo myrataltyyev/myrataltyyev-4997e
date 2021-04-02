@@ -47,7 +47,14 @@ sections:
       *   **Duration:** September 2015 - January 2018
       *   **Major:** B.Sc. Computer Engineering
       *   **Place:** Istanbul, Turkey
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
 seo:
   title: ''

@@ -39,6 +39,7 @@ sections:
         type: action
     type: section_content
     image_alt: CIU
+    image: images/ciu.jpg
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum

@@ -62,17 +62,10 @@ sections:
       Turkmenbashy
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      *   **Duration:** September 2009 - June 2015
+      *   **Major:** Physics and Mathematics
+      *   **Place:** Ashgabat, Turkmenistan
     actions: []
     type: section_content
 seo:

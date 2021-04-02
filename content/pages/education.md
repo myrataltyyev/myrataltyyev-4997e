@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Visit
         url: 'https://www.rwth-aachen.de'
-        style: icon
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false

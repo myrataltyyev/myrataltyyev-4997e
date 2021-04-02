@@ -40,7 +40,7 @@ sections:
     type: section_content
     image_alt: CIU
     image: images/ciu.jpg
-  - title: lorem-ipsum
+  - title: BAHCESEHIR UNIVERSITY
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

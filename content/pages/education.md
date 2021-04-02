@@ -12,7 +12,7 @@ sections:
 
       *   Place: Aachen, Germany
     actions:
-      - label: lorem-ipsum
+      - label: Visit
         url: '#'
         style: link
         icon_class: dev

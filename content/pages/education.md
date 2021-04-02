@@ -24,17 +24,12 @@ sections:
   - title: Cyprus International University
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: |
+      *   Duration: February 2018 - June 2019
 
+      *   Major: B.Sc. Computer Engineering
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+      *   Place: Nicosia, Turkish Republic of Northern Cyprus
     actions: []
     type: section_content
   - title: lorem-ipsum

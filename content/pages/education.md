@@ -13,6 +13,7 @@ sections:
       *   Place: Aachen, Germany
     actions: []
     type: section_content
+    image: images/SuperC-59.JPEG
   - title: lorem-ipsum
     section_id: lorem-ipsum
     image_alt: lorem-ipsum

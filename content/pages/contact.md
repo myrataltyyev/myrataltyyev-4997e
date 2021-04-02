@@ -27,7 +27,7 @@ sections:
           - Question
           - Suggestion
           - Job offer
-          - Want to solve CTF together
+          - Want to solve CTFs together
           - Other
       - input_type: textarea
         name: message

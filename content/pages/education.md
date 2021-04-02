@@ -23,14 +23,9 @@ sections:
     image: images/SuperC-59.JPEG
   - title: Cyprus International University
     section_id: lorem-ipsum
-    content: |
-      *   **Duration:** sfsdafsdaf
-
-      <!---->
-
-      *   **Major:** fsdaf
-
-      *   **Place:** hjgj
+    content: >
+      *   *   **Major:** B.Sc. Computer Engineering*   **Place:** Istanbul,
+      Turkey
     actions:
       - label: Visit
         url: 'https://www.ciu.edu.tr/'

@@ -16,7 +16,7 @@ sections:
       called Aachen. Besides studying, I read books, watch movies, solve CTFs
       (Capture the Flags) and do sport. Also I'm open to internship or part-time
       work to get an experience in my field. If you have any suggestion,
-      constructive criticism, question or anything to tell, you can reach out to
+      constructive criticism, question or anything to tell, just reach out to
       me.
     actions:
       - label: Contact Me

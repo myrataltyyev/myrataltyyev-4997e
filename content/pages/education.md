@@ -57,7 +57,9 @@ sections:
         type: action
     type: section_content
     image: images/bau.jpg
-  - title: lorem-ipsum
+  - title: >-
+      State boarding-school for gifted children Named after Saparmyrat
+      Turkmenbashy
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

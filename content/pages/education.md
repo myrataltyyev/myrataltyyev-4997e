@@ -68,6 +68,7 @@ sections:
       *   **Place:** Ashgabat, Turkmenistan
     actions: []
     type: section_content
+    image: images/azch.JPG
 seo:
   title: ''
   description: ''

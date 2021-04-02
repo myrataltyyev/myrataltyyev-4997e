@@ -33,7 +33,7 @@ sections:
     actions:
       - label: Visit
         url: 'https://www.ciu.edu.tr/'
-        style: link
+        style: button
         icon_class: dev
         new_window: false
         no_follow: false

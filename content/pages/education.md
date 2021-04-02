@@ -31,7 +31,7 @@ sections:
 
       *   **Place:** Nicosia, Turkish Republic of Northern Cyprus
     actions:
-      - label: lorem-ipsum
+      - label: Visit
         url: '#'
         style: link
         icon_class: dev

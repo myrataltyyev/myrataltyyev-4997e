@@ -6,10 +6,9 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      *   **Field:** M.Sc. Software Systems Engineering
+      **Field:** M.Sc. Software Systems Engineering
 
-
-      *   **Place:** Aachen, Germany
+      **Place:** Aachen, Germany
     actions: []
     type: section_content
 seo:

@@ -64,7 +64,7 @@ sections:
     image_alt: lorem-ipsum
     content: |
       *   **Duration:** September 2009 - June 2015
-      *   **Major:** Physics and Mathematics
+      *   **Specialty:** Physics and Mathematics
       *   **Place:** Ashgabat, Turkmenistan
     actions: []
     type: section_content

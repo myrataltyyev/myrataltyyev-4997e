@@ -46,7 +46,7 @@ sections:
     content: |
       *   **Duration:** September 2015 - January 2018
       *   **Major:** B.Sc. Computer Engineering
-      *   **Place: **Istanbul, Turkey
+      *   **Place:** Istanbul, Turkey
     actions: []
     type: section_content
 seo:

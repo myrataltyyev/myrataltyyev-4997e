@@ -23,12 +23,12 @@ sections:
     image: images/SuperC-59.JPEG
   - title: Cyprus International University
     section_id: lorem-ipsum
-    content: |
+    content: >
       *   **Duration:** February 2018 - June 2019
 
-      *   **Major:** B.Sc. Computer Engineering
 
-      *   **Place:** Nicosia, Turkish Republic of Northern Cyprus
+      *   *   **Major:** B.Sc. Computer Engineering*   **Place:** Istanbul,
+      Turkey
     actions:
       - label: Visit
         url: 'https://www.ciu.edu.tr/'

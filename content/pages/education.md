@@ -49,7 +49,7 @@ sections:
       *   **Place:** Istanbul, Turkey
     actions:
       - label: Visit
-        url: '#'
+        url: 'https://bau.edu.tr/'
         style: link
         icon_class: dev
         new_window: false

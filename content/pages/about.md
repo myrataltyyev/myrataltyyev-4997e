@@ -37,6 +37,4 @@ I display enormous striving for knowledge and always improve myself not only in 
 
 You can see the source code of my projects by following this [link](https://github.com/myrataltyyev?tab=repositories) to my Github profile.
 
-\*\*
-
-Thank You for reading!
+*Thank You for reading!*

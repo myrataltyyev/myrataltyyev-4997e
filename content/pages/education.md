@@ -21,7 +21,7 @@ sections:
         type: action
     type: section_content
     image: images/SuperC-59.JPEG
-  - title: lorem-ipsum
+  - title: Cyprus International University
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-

@@ -13,7 +13,7 @@ sections:
       *   Place: Aachen, Germany
     actions:
       - label: Visit
-        url: '#'
+        url: 'https://www.rwth-aachen.de'
         style: link
         icon_class: dev
         new_window: false

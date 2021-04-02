@@ -33,7 +33,7 @@ layout: page
 ---
 I was born in Ashgabat, Turkmenistan. Currently study M.Sc. Software Systems Engineering at RWTH Aachen University, Germany. I'm ambitious, curious, enthusiastic, honest, meticulous, patient, punctual, responsible person.
 
-I display enormous striving for knowledge and always improve myself not only in professional life, but in personal too. I'm obsessed with Cyber Security (a.k.a Information Security or InfoSec), interested in Math, Computer Science, Linux Administration, Computer Networks and Software Development. Regarding the Cyber Security, I actively follow news, read books and solve CTFs,
+I display enormous striving for knowledge and always improve myself not only in professional life, but in personal too. I'm obsessed with Cyber Security (a.k.a Information Security or InfoSec), interested in Math, Computer Science, Linux Administration, Computer Networks and Software Development. Regarding the Cyber Security, I actively follow news, read books and solve CTFs.
 
 You can see the source code of my projects by following this [link](https://github.com/myrataltyyev?tab=repositories) to my Github profile.
 

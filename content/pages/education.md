@@ -25,11 +25,11 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      *   Duration: February 2018 - June 2019
+      *   **Duration:** February 2018 - June 2019
 
-      *   Major: B.Sc. Computer Engineering
+      *   **Major:** B.Sc. Computer Engineering
 
-      *   Place: Nicosia, Turkish Republic of Northern Cyprus
+      *   **Place:** Nicosia, Turkish Republic of Northern Cyprus
     actions: []
     type: section_content
   - title: lorem-ipsum

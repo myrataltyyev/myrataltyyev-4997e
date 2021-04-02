@@ -27,7 +27,7 @@ sections:
           - Question
           - Suggestion
           - Job offer
-          - 'Want to be '
+          - Want to solve CTF together
           - lorem-ipsum
       - input_type: textarea
         name: message

@@ -29,6 +29,8 @@ sections:
       *   **Major:** fsdf
 
       *   **Place:** fdsfd
+
+      *
     actions:
       - label: Visit
         url: 'https://www.ciu.edu.tr/'

@@ -24,11 +24,11 @@ sections:
   - title: Cyprus International University
     section_id: lorem-ipsum
     content: |
-      *   **Duration:** j
+      **Duration:** fdsaf
 
-      *   **Place:** jf
+      **Major:** fsdf
 
-      *   **Major:** j
+      **Place:** fdsfd
     actions:
       - label: Visit
         url: 'https://www.ciu.edu.tr/'

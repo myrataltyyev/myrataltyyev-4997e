@@ -10,7 +10,7 @@ sections:
 
       *   **Major:** M.Sc. Software Systems Engineering
 
-      *   **Place:**  Aachen, Germany
+      *   **Place:** Aachen, Germany
     actions:
       - label: Visit
         url: 'https://www.rwth-aachen.de'

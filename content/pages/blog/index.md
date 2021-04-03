@@ -2,7 +2,7 @@
 title: Blog
 seo:
   title: Blog
-  description: This is the blog page
+  description: This is the blog page of Myrat
   extra:
     - name: 'og:type'
       value: website

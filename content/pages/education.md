@@ -49,7 +49,6 @@ sections:
       *   **Duration:** September 2015 - January 2018
       *   **Major:** B.Sc. Computer Engineering
       *   **Place:** Istanbul, Turkey
-      *   jbnkl
     actions:
       - label: Visit
         url: 'https://bau.edu.tr/'

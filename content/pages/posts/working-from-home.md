@@ -10,7 +10,7 @@ date: '2021-03-03'
 thumb_img_path: images/security-4907127_640.jpg
 thumb_img_alt: Padlock
 content_img_path: images/security-4907127_640.jpg
-content_img_alt: A man sitting at the table
+content_img_alt: Padlock
 seo:
   title: The Advantages and Disadvantages of Working from Home
   description: Work at home parent is an entrepreneur who works from home

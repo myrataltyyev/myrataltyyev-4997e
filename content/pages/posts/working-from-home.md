@@ -2,7 +2,6 @@
 title: >-
   The Differences between Network Security, Cybersecurity and Information
   Security
-excerpt: Work at home parent is a
 date: '2021-03-03'
 thumb_img_path: images/security-4907127_640.jpg
 thumb_img_alt: Padlock

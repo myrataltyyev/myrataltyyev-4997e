@@ -2,7 +2,7 @@
 title: >-
   The Differences between Information Security, Cybersecurity and Network
   Security
-date: '2021-08-06'
+date: '2021-07-06'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum

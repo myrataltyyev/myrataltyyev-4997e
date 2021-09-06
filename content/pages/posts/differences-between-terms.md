@@ -5,7 +5,7 @@ title: >-
 date: '2021-03-04'
 thumb_img_alt: padlock
 content_img_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: padlock
 seo:
   title: ''
   description: ''

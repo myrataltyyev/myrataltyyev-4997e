@@ -36,3 +36,6 @@ To understand these terms better, here are the examples. Securing data transmitt
 ### References
 
 [The Pentester BluePrint: Starting a Career as an Ethical Hacker](https://www.amazon.com/gp/product/1119684307/ref=as_li_tl?ie=UTF8\&camp=1789\&creative=9325\&creativeASIN=1119684307\&linkCode=as2\&tag=myrat-20\&linkId=aff549ddee892b455d471ae995b6a3ff)
+
+
+

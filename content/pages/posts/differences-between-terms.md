@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  The Differences between Information Security, Cybersecurity and Network
+  Security
 subtitle: lorem-ipsum
 date: '2021-09-06'
 thumb_img_alt: lorem-ipsum

@@ -12,6 +12,7 @@ seo:
   robots: []
   extra: []
 layout: post
+thumb_img_path: images/security-4907127_640.jpg
 ---
 Generally ***Information Security*** (aka ***InfoSec***) is used interchangeably with ***Cybersecurity*** and sometimes ***Network Security*** too. Although they have overlapping areas of application, in fact they are different. In this short article I will explain the differences between them.
 

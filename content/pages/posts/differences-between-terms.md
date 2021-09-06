@@ -31,7 +31,7 @@ As the name implies, network security is closely related to networking. It perta
 
 To understand these terms better, here are the examples. Securing data transmitted over the computer network involves all three terms - network security, cybersecurity, information security. Securing data that is stored on a digital device isolated from the network is not related to network security, but it is cybersecurity and information security. Destroying the paper with sensitive financial information by burning or putting it through shredder is neither network security nor cybersecurity, but it is information security.
 
-> ###### As Bruce Schneier says: "Security is a process, not a product". By this sentence, he means that no product (antivirus, password manager etc.) can help in securing your data once and for always.  Sustained attention is the key to secure your information.
+> As Bruce Schneier says: "Security is a process, not a product". By this sentence, he means that no product (antivirus, password manager etc.) can help in securing your data once and for always.  Sustained attention is the key to secure your information.
 
 ### References
 
